@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\WixInstaller\bin\Debug\WixInstaller.msi
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\WixInstaller\bin\Debug\WixInstaller.wixpdb
+obj\Debug\WixInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixInstaller.wixproj.BindBuiltOutputsFileListnull.txt

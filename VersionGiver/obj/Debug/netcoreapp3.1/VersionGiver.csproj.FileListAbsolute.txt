@@ -1,0 +1,14 @@
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.exe
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.deps.json
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.runtimeconfig.json
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.runtimeconfig.dev.json
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.dll
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.pdb
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.csproj.AssemblyReference.cache
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.AssemblyInfoInputs.cache
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.AssemblyInfo.cs
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.csproj.CoreCompileInputs.cache
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.dll
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.pdb
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\obj\Debug\netcoreapp3.1\VersionGiver.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Patch 
+        AllowRemoval="yes"
+        Manufacturer="James" 
+        MoreInfoURL="http://www.dynamocorp.com/"
+        DisplayName="Sample Patch" 
+        Description="Small Update Patch" 
+        Classification="Update"
+        >
+ 
+        <Media Id="5000" Cabinet="RTM.cab">
+            <PatchBaseline Id="RTM"/>
+        </Media>
+ 
+        <PatchFamily Id='SamplePatchFamily' Version='1.0.0.0' Supersede='yes' ProductCode="{DCF053CA-E84F-4FD0-BD13-FB030AD3F5E1}">
+            <ComponentRef Id="Program01"/>
+        </PatchFamily>
+    </Patch>
+ 
+    <Fragment>    
+
+    </Fragment>
+</Wix>

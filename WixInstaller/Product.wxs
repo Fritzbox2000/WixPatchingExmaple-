@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix
+	xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="{DCF053CA-E84F-4FD0-BD13-FB030AD3F5E1}" Name="WixInstaller" Language="1033" Version="1.1.0.0" Manufacturer="James" UpgradeCode="ab292b21-765f-4dbf-9fe3-a720dc8a1096">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+		<MediaTemplate EmbedCab="yes" CompressionLevel="high" />
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<Feature Id="ProductFeature" Title="WixInstaller" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixInstaller" /></Directory>
+		</Directory>
+	</Fragment>
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="Program01" Guid="{C3AAF953-DBCA-4108-A91F-158937C9136A}">
+				<File Id="Program.cs" KeyPath="yes" Source="VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.exe" Checksum="yes"/>
+				<File Id="Program.dll" KeyPath="no" Source="VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.dll" Checksum="yes"/>
+				<File Id="Program.runtimeconfig" KeyPath="no" Source="VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.runtimeconfig.json" Checksum="yes"/>
+				<File Id="Program.deps" KeyPath="no" Source="VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.deps.json" Checksum="yes"/>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

@@ -1,0 +1,4 @@
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.exe
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.deps.json
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.dll
+C:\tfs\TestEnv\WIXUpgrades\VersionGiver\VersionGiver\bin\Debug\netcoreapp3.1\VersionGiver.runtimeconfig.json

@@ -1,0 +1,6 @@
+
+1. First make sure that VersionGiver/Program.cs has the text "1.0.0" set, do the same with VersionGiver/VersionGiver.csproj 
+2. Run "build_1_0_0.bat" 
+3. Then change the "1.0.0" to "1.1.0" in VersionGiver/Program.cs and VersionGiver/VersionGiver.csproj 
+4. Run "build_1_1_0.bat"
+5. Run create_patch.bat
